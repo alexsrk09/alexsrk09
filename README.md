@@ -1,4 +1,10 @@
 ### Hi there 👋
+- 🔭 I’m currently studying Multiplatform Applications design in [C.E.S. Lope de Vega](https://www.ceslopedevega.com/).
+
+-  🌱 I’m currently learning c++ on Arduino IDE, Java object oriented, HTML and CSS.
+
+- 💻 I’m currently working on my first videogame, [Walking Through The Lines](https://github.com/WalkingThroughTheLines).
+
 
 <!--
 **alexsrk09/alexsrk09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
