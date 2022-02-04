@@ -3,7 +3,7 @@
 
 -  🌱 I’m currently learning c++ on Arduino IDE, Java object oriented, HTML and CSS.
 
-- 💻 I’m currently working on my first videogame, [Walking Through The Lines](https://github.com/WalkingThroughTheLines).
+- 💻 I’m currently working on my first videogame.
 
 
 <!--
