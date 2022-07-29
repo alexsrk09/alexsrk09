@@ -1,7 +1,10 @@
 ### Hi there 👋
-- 🔭 I’m currently studying Multiplatform Applications design in [C.E.S. Lope de Vega](https://www.ceslopedevega.com/).
 
--  🌱 I’m currently learning c++ on Arduino IDE, Laravel, HTML and CSS.
+- 🔭 I've studied Multiplatform Applications design [C.E.S. Lope de Vega](https://www.ceslopedevega.com/).
+
+- 📫 I’m currently studying Web Applications design in [I.E.S. Gran Capitán](https://www.iesgrancapitan.org/).
+
+- 🌱 I’m currently learning c++ on Arduino IDE, Laravel, HTML and CSS.
 
 - 💻 I’m currently working on my first videogame.
 
