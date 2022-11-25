@@ -8,6 +8,7 @@
 
 - 💻 I’m currently working on my first videogame.
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexsrk09&show_icons=true&locale=en&layout=compact" alt="alexsrk09"/>
+<img src="https://komarev.com/ghpvc/?username=alexsrk09&label=Profile%20views&color=0e75b6&style=flat" alt="alexsrk09"/>
 
 <!--
 **alexsrk09/alexsrk09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
