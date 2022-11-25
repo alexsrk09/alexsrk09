@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning c++ on Arduino IDE, Laravel, HTML and CSS.
 
 - 💻 I’m currently working on my first videogame.
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexsrk09&show_icons=true&locale=en&layout=compact" alt="alexsrk09"/>
 
 <!--
 **alexsrk09/alexsrk09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
