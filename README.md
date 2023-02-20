@@ -9,7 +9,7 @@
 - 💻 I’m currently working on my first videogame.
 
 ### My activity
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexsrk09&show_icons=true&locale=en&layout=compact" alt="alexsrk09"/>
+<img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexsrk09&show_icons=true&locale=en&layout=compact" alt="alexsrk09"/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexsrk09&show_icons=true&locale=en" alt="alexsrk09" /></p>
 
