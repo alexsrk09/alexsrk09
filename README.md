@@ -2,7 +2,7 @@
 
 - 🔭 I've studied Multiplatform Applications design [C.E.S. Lope de Vega](https://www.ceslopedevega.com/).
 
-- 🌱 I’m currently learning c++ on Arduino IDE, Laravel, .NET, c# and Unity.
+- 🌱 I’m currently learning c++ on Arduino IDE, Laravel, .NET, C# and Unity.
 
 - 💻 I’m currently working on my first videogame.
 
