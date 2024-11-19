@@ -1,20 +1,30 @@
-### Hi there 👋
+# Hi there! 👋
 
-- 🔭 Multiplatform Applications development [C.E.S. Lope de Vega](https://www.ceslopedevega.com/).
-- 🔭 Web Applications development [MEDAC Arena](https://medac.es/fp-cordoba/escritora-maria-goyri-sn).
-- 🔭 Videogames development Master [I.E.S. Trassierra](https://www.iestrassierra.com/).
+Welcome to my GitHub profile! I'm passionate about software development, from crafting web applications to designing immersive video games. 🚀
 
-- 🌱 I’m currently learning c++ on Arduino IDE, Laravel, .NET, C# and Unity.
+## About Me
+- 🎓 **Education**:  
+  - Multiplatform Applications Development - [C.E.S. Lope de Vega](https://www.ceslopedevega.com/)  
+  - Web Applications Development - [MEDAC Arena](https://medac.es/fp-cordoba/escritora-maria-goyri-sn)  
+  - Master in Videogame Development - [I.E.S. Trassierra](https://www.iestrassierra.com/)  
 
-- 💻 I’m currently working on my first videogame: Exit: Echoes of Insanity.
+- 🌱 **Currently Learning**:  
+  - C++ on Arduino IDE, Laravel, .NET, C#, and Unity.  
 
-### My activity
-<img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexsrk09&show_icons=true&locale=en&layout=compact" alt="alexsrk09"/>
+- 💻 **Current Project**:  
+  - My first video game: *Exit: Echoes of Insanity*. 🎮  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexsrk09&show_icons=true&locale=en" alt="alexsrk09" /></p>
+## GitHub Stats
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexsrk09&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexsrk09&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
 
+## Profile Views
+<img src="https://komarev.com/ghpvc/?username=alexsrk09&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 
-<img src="https://komarev.com/ghpvc/?username=alexsrk09&label=Profile%20views&color=0e75b6&style=flat" alt="alexsrk09"/>
 
 <!--
 **alexsrk09/alexsrk09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
