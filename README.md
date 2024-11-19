@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I've studied Multiplatform Applications design [C.E.S. Lope de Vega](https://www.ceslopedevega.com/).
+- 🔭 I've studied Multiplatform Applications development [C.E.S. Lope de Vega](https://www.ceslopedevega.com/).
+- 🔭 I've studied Web Applications development [MEDAC Arena]([https://www.ceslopedevega.com/](https://medac.es/fp-cordoba/escritora-maria-goyri-sn)).
 
 - 🌱 I’m currently learning c++ on Arduino IDE, Laravel, .NET, C# and Unity.
 
-- 💻 I’m currently working on my first videogame.
+- 💻 I’m currently working on my first videogame: Exit: Echoes of Insanity.
 
 ### My activity
 <img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexsrk09&show_icons=true&locale=en&layout=compact" alt="alexsrk09"/>
