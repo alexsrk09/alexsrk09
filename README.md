@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I've studied Multiplatform Applications development [C.E.S. Lope de Vega](https://www.ceslopedevega.com/).
-- 🔭 I've studied Web Applications development [MEDAC Arena](https://medac.es/fp-cordoba/escritora-maria-goyri-sn).
+- 🔭 Multiplatform Applications development [C.E.S. Lope de Vega](https://www.ceslopedevega.com/).
+- 🔭 Web Applications development [MEDAC Arena](https://medac.es/fp-cordoba/escritora-maria-goyri-sn).
+- 🔭 Videogames development Master [I.E.S. Trassierra](https://www.iestrassierra.com/).
 
 - 🌱 I’m currently learning c++ on Arduino IDE, Laravel, .NET, C# and Unity.
 
